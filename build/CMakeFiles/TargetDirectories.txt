@@ -1,0 +1,3 @@
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/build/CMakeFiles/rebuild_cache.dir
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/build/CMakeFiles/edit_cache.dir
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/build/CMakeFiles/simpleDB.dir
