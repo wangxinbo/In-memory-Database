@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+src/Database.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+src/Reader.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Reader.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Command.cpp
+Command.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Command.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Command.hpp
+Database.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Printer.hpp
+string
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.cpp
+Database.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+string
+-
+unordered_map
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Printer.cpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Printer.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Printer.hpp
+iostream
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Reader.cpp
+Reader.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Reader.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Reader.hpp
+Command.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Command.hpp
+Database.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+Transaction.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Transaction.hpp
+Printer.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Printer.hpp
+stack
+-
+sstream
+-
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Transaction.cpp
+Transaction.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Transaction.hpp
+
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Transaction.hpp
+Command.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Command.hpp
+Database.hpp
+/Users/xinbowang/Documents/Docs for Xcode/simpleDB/src/Database.hpp
+stack
+-
+
