@@ -1,5 +1,6 @@
 # In-memory-Database
 Simulate a simple in-memory database that supports regular Set, Get, Unset, and Transaction operations with rollback.
+
 1. To compile the code:
    a. Go the ./build folder
    b. Type in: cmake ..
